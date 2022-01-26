@@ -1,0 +1,260 @@
+.div {
+  width: 100px;
+  height: 35px;
+  background: red;
+  transition: width 1.5s;
+}
+
+div:hover {
+  width: 150px;
+}
+
+.link
+{
+  position:absolute;
+  top: 2%;
+  left: 5%;
+}
+
+.titol
+{
+  position:absolute;
+  top: -1%;
+  left: 38%;
+}
+
+.intro
+{
+  position:absolute;
+  top: 7%;
+  left: 1%;
+}
+
+#imgFotoPrincipal
+{
+  position: absolute;
+  top: 15%;
+  left: 36%;
+}
+
+#tipuesarmes
+{
+  position: absolute;
+  top: 44%;
+  left: 47%;
+}
+
+#armeslleugueres
+{
+  position: absolute;
+  top: 50%;
+  left: 8%;
+  color: red;
+}
+#lleugueres
+{
+  position: absolute;
+  top: 55%;
+  left: 1%;
+}
+
+
+#armespesades
+{
+  position: absolute;
+  top: 50%;
+  left: 48%;
+  color: green;
+}
+#pesades
+{
+  position: absolute;
+  top: 55%;
+  left: 40%;
+}
+
+
+#armestecniques
+{
+  position: absolute;
+  top: 50%;
+  left: 83%;
+  color: blue;
+}
+#tecniques
+{
+  position: absolute;
+  top: 55%;
+  left: 75%;
+}
+
+#imgEspasaIescut
+{
+  position: absolute;
+  top: 60%;
+  left: 2%;
+}
+
+#imgEspasasDobles
+{
+  position: absolute;
+  top: 60%;
+  left: 8%;
+}
+
+#imgEspasaLlarga
+{
+  position: absolute;
+  top: 60%;
+  left: 13%;
+}
+
+#imgBallestaLleuguera
+{
+  position: absolute;
+  top: 60%;
+  left: 19%;
+}
+
+#imgGranEspasa
+{
+  position: absolute;
+  top: 60%;
+  left: 41%;
+}
+
+#imgMartell
+{
+  position: absolute;
+  top: 60%;
+  left: 45%;
+}
+
+#imgLlança
+{
+  position: absolute;
+  top: 60%;
+  left: 48%;
+}
+
+#imgLlançaIpistola
+{
+  position: absolute;
+  top: 60%;
+  left: 52%;
+}
+
+#imgBallestaPesada
+{
+  position: absolute;
+  top: 60%;
+  left: 57%;
+}
+
+#imgCornamusa
+{
+  position: absolute;
+  top: 60%;
+  left: 76%;
+}
+
+#imgDestralEspasa
+{
+  position: absolute;
+  top: 60%;
+  left: 81%;
+}
+
+#imgDestralCarregada
+{
+  position: absolute;
+  top: 60%;
+  left: 86%;
+}
+
+#imgGlaiveInsecte
+{
+  position: absolute;
+  top: 60%;
+  left: 92%;
+}
+
+#imgArc
+{
+  position: absolute;
+  top: 60%;
+  left: 96%;
+}
+
+#imgMapaMundi
+{
+  position: absolute;
+  top: 19%;
+  left: 1%;
+}
+
+#mapamundi
+{
+  position: absolute;
+  top: 14%;
+  left: 9%;
+}
+
+#imgDrac
+{
+  position: absolute;
+  top: 19%;
+  left: 70%;
+}
+
+#monstrespetits
+{
+  position: absolute;
+  top: 68%;
+  left: 8%;
+  color: brown;
+}
+
+#monstresgrans
+{
+  position: absolute;
+  top: 67%;
+  left: 50%;
+  color: purple;
+}
+
+#dracsmitics
+{
+  position: absolute;
+  top: 67%;
+  left: 85%;
+  color: yellow;
+}
+
+#imgMonstresPetits
+{
+  position: absolute;
+  top: 72%;
+  left: 2%;
+}
+
+#imgMonstresGrans1
+{
+  position: absolute;
+  top: 72%;
+  left: 36%;
+}
+
+#imgMonstresGrans2
+{
+  position: absolute;
+  top: 72%;
+  left: 49%;
+}
+
+#imgDracMitics
+{
+  position: absolute;
+  top: 72%;
+  left: 76%;
+}
